@@ -1,4 +1,4 @@
-Bahcelor's Thesis on topic "Mathematical Modeling and Machine Learning in Poker Theory". 
+# Bahcelor's Thesis on topic "Mathematical Modeling and Machine Learning in Poker Theory". 
 
 This project includes:
 Combinations calculation.ipynb - calculations of Texas Hold'em combinations for the Dataset.csv,
