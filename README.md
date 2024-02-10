@@ -6,4 +6,3 @@ Dataset.csv - dataset collected from World Poker
 Empirical.ipynb - analysis of Dataset.csv
 Monte Carlo.ipynb - Monte-Carlo simulations of different shuffle techniques
 shuffle simulation.ipynb - simulations of shuffle tecnhiques
-
